@@ -31,5 +31,12 @@
 </div>
 
 <br/>
+<br/>
 
+<h2 align="center"> ⚡ My Stats ⚡</h2>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=othersideofpadil&theme=tokyonight&hide_border=true" height = "180" alt = "Github Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othersideofpadil&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height = "180" alt = "Top Langs"/>
+</div>
 
