@@ -23,7 +23,7 @@
   </a>
 </div> <br>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,tailwind,git" />
