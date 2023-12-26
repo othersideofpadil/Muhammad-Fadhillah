@@ -8,7 +8,7 @@
  
  🔭 I’m currently studying on **STT - NF**
  
- 🌱 I’m currently learning **Laravel, Java, NodeJS**
+ 🌱 I’m currently learning **Laravel, Java, ExpressJS**
 
 ⚡ Fun fact **I really like Fifa and E-Football games**
 
@@ -27,7 +27,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=php,javascript,java,nodejs,laravel,mysql" />
+    <img src="https://skillicons.dev/icons?i=php,javascript,java,nodejs,laravel,expressjs,mysql" />
 </div>
 
 <br/>
