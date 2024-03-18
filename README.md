@@ -8,7 +8,7 @@
  
  🔭 I’m currently studying on **STT - NF**
  
- 🌱 I’m currently learning **Laravel, Java, ExpressJS**
+ 🌱 I’m currently learning **Javascript, ReactJs**
 
 ⚡ Fun fact **I really like Fifa and E-Football games**
 
